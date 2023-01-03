@@ -17,6 +17,8 @@ Movie Rating With Content Project
 •	beautiful soup --> pip install beautifulsoup4 <br>
 •	pyqt5 --> pip install pyqt5 <br>
 •	requests --> pip install requests <br>
+•	pandas --> pip install pandas <br>
+
        After installing these libraries, it will be enough to run the run command to make the project work.
 <h3> Technologies </h3>
 •	Created using visual studio code. <br>
