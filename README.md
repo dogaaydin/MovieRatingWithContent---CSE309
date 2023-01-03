@@ -10,14 +10,13 @@ Movie Rating With Content Project
 <h3> How to Run </h3> <br>
        In order to run the project, python,pandas,request,beautiful soup,numpy,openpyxl, pyQt5 must be installed on your computer.
        You can download Python from their site.<br>
-       In order to add the libraries to the project, you must write the following commands in cmd.
+       In order to add the libraries to the project, you must write the following commands in cmd.<br>
 •	pandas --> pip install pandas <br>
 •	numpy --> pip install numpy <br>
 •	openpyxl --> pip install openpyxl <br>
 •	beautiful soup --> pip install beautifulsoup4 <br>
 •	pyqt5 --> pip install pyqt5 <br>
 •	requests --> pip install requests <br>
-•	pandas --> pip install pandas <br>
 
        After installing these libraries, it will be enough to run the run command to make the project work.
 <h3> Technologies </h3>
